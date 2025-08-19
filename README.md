@@ -33,3 +33,9 @@ This repository contains a detailed report on **Wazuh**, an open-source security
 
 ## ⚙️ Installation & Setup  
 A complete step-by-step guide for installing and configuring Wazuh is included in the **Wazuh Report.pdf** document.  
+
+
+## Repository Structure
+├── README.md # Overview of the project
+├── Wazuh Report.pdf # Full detailed report
+
